@@ -45,6 +45,7 @@ namespace TesteTarget
 
                         break;
                     case 2:
+                        //Question 2
                         int a = 0, b = 1, fib = 0;
 
                         Console.Write("Enter number: ");
@@ -70,6 +71,8 @@ namespace TesteTarget
 
                         break;
                     case 3:
+                        
+                        //Question 5
                         Console.Write("Enter with one word: ");
 
                         string word = Console.ReadLine();
