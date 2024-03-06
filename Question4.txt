@@ -1,0 +1,10 @@
+QUESTION 4
+            Vamos supor que os inteterruptores estejam dispostos de forma horizontal, representado por (|)
+            ESQUEMA DOS INTERUPTORES: [ | | |]
+            Sendo assim, ligaria o primeiro interruptor da esquerda para direita e iria ver qual lâmpada ele está controlando
+            e marcaria. 
+            qtd. de voltas = 1;
+            Depois, ligaria a o interruptor mais a direita e veria qual lâmpada ele controla. 
+            qtd. de voltas = 1;
+            Por fim, a lâmpada que não foi acessa por dedução será a controlada pelo interruptor do meio. 
+            

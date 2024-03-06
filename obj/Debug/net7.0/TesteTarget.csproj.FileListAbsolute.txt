@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\bin\Debug\net7.0\TesteTarget.exe
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\bin\Debug\net7.0\TesteTarget.deps.json
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\bin\Debug\net7.0\TesteTarget.runtimeconfig.json
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\bin\Debug\net7.0\TesteTarget.dll
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\bin\Debug\net7.0\TesteTarget.pdb
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.sourcelink.json
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.dll
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\refint\TesteTarget.dll
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.pdb
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\TesteTarget.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Desktop\BaltaCsharp\TesteTarget\TesteTarget\obj\Debug\net7.0\ref\TesteTarget.dll
